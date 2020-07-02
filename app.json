@@ -29,8 +29,6 @@
 	},
 	"addons": [
 		"jawsdb",
-		"sendgrid",
-		"all-in-one-wp-migration"
-	],
+		"sendgrid"	],
 	"image": "heroku/php"
 }
