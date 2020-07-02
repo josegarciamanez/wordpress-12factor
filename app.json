@@ -30,7 +30,7 @@
 	"addons": [
 		"jawsdb",
 		"sendgrid",
-		"allinonewpmigration"
+		"all-in-one-wp-migration"
 	],
 	"image": "heroku/php"
 }
